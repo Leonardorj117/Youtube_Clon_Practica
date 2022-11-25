@@ -7,15 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18963E48292BCFC600CC07F2 /* HomeProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18963E47292BCFC600CC07F2 /* HomeProvider.swift */; };
+		18963E4A292BD32500CC07F2 /* HomePresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18963E49292BD32500CC07F2 /* HomePresenter.swift */; };
+		18A0CF1E292545CE0042064A /* ServiceLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A0CF1D292545CE0042064A /* ServiceLayer.swift */; };
+		18A0CF20292545F10042064A /* NetworkError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A0CF1F292545F10042064A /* NetworkError.swift */; };
+		18A0CF22292547DD0042064A /* RequestModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A0CF21292547DD0042064A /* RequestModel.swift */; };
+		18A0CF26292556EE0042064A /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A0CF25292556EE0042064A /* Constants.swift */; };
 		18AC665A291ED91D00E2D71B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AC6659291ED91D00E2D71B /* AppDelegate.swift */; };
 		18AC665C291ED91D00E2D71B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AC665B291ED91D00E2D71B /* SceneDelegate.swift */; };
 		18AC665E291ED91D00E2D71B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AC665D291ED91D00E2D71B /* ViewController.swift */; };
 		18AC6661291ED91D00E2D71B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18AC665F291ED91D00E2D71B /* Main.storyboard */; };
 		18AC6663291ED92000E2D71B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18AC6662291ED92000E2D71B /* Assets.xcassets */; };
 		18AC6666291ED92000E2D71B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18AC6664291ED92000E2D71B /* LaunchScreen.storyboard */; };
+		18AC66702922CF5300E2D71B /* PlaylistModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AC666F2922CF5300E2D71B /* PlaylistModel.swift */; };
+		18AC66722922DDC000E2D71B /* VideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AC66712922DDC000E2D71B /* VideoModel.swift */; };
+		18AC66742922E6A200E2D71B /* RootPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AC66732922E6A200E2D71B /* RootPageViewController.swift */; };
+		18AC66762922E6E000E2D71B /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AC66752922E6E000E2D71B /* MainViewController.swift */; };
+		18B8348C29246B5C003145AB /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B8348A29246B5C003145AB /* HomeViewController.swift */; };
+		18B8348D29246B5C003145AB /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18B8348B29246B5C003145AB /* HomeViewController.xib */; };
+		18B8349029246B88003145AB /* VideosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B8348E29246B88003145AB /* VideosViewController.swift */; };
+		18B8349129246B88003145AB /* VideosViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18B8348F29246B88003145AB /* VideosViewController.xib */; };
+		18B8349429246BB3003145AB /* PlaylistsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B8349229246BB3003145AB /* PlaylistsViewController.swift */; };
+		18B8349529246BB3003145AB /* PlaylistsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18B8349329246BB3003145AB /* PlaylistsViewController.xib */; };
+		18B8349829246BC5003145AB /* ChanelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B8349629246BC5003145AB /* ChanelViewController.swift */; };
+		18B8349929246BC5003145AB /* ChanelViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18B8349729246BC5003145AB /* ChanelViewController.xib */; };
+		18B8349D29246BF2003145AB /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B8349B29246BF2003145AB /* AboutViewController.swift */; };
+		18B8349E29246BF2003145AB /* AboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18B8349C29246BF2003145AB /* AboutViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		18963E47292BCFC600CC07F2 /* HomeProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeProvider.swift; sourceTree = "<group>"; };
+		18963E49292BD32500CC07F2 /* HomePresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePresenter.swift; sourceTree = "<group>"; };
+		18A0CF1D292545CE0042064A /* ServiceLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceLayer.swift; sourceTree = "<group>"; };
+		18A0CF1F292545F10042064A /* NetworkError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkError.swift; sourceTree = "<group>"; };
+		18A0CF21292547DD0042064A /* RequestModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestModel.swift; sourceTree = "<group>"; };
+		18A0CF25292556EE0042064A /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		18AC6656291ED91D00E2D71B /* Youtube_Clon_Practica.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Youtube_Clon_Practica.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18AC6659291ED91D00E2D71B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18AC665B291ED91D00E2D71B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +50,20 @@
 		18AC6662291ED92000E2D71B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18AC6665291ED92000E2D71B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18AC6667291ED92000E2D71B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18AC666F2922CF5300E2D71B /* PlaylistModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistModel.swift; sourceTree = "<group>"; };
+		18AC66712922DDC000E2D71B /* VideoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoModel.swift; sourceTree = "<group>"; };
+		18AC66732922E6A200E2D71B /* RootPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootPageViewController.swift; sourceTree = "<group>"; };
+		18AC66752922E6E000E2D71B /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		18B8348A29246B5C003145AB /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		18B8348B29246B5C003145AB /* HomeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+		18B8348E29246B88003145AB /* VideosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideosViewController.swift; sourceTree = "<group>"; };
+		18B8348F29246B88003145AB /* VideosViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = VideosViewController.xib; sourceTree = "<group>"; };
+		18B8349229246BB3003145AB /* PlaylistsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistsViewController.swift; sourceTree = "<group>"; };
+		18B8349329246BB3003145AB /* PlaylistsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PlaylistsViewController.xib; sourceTree = "<group>"; };
+		18B8349629246BC5003145AB /* ChanelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChanelViewController.swift; sourceTree = "<group>"; };
+		18B8349729246BC5003145AB /* ChanelViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ChanelViewController.xib; sourceTree = "<group>"; };
+		18B8349B29246BF2003145AB /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		18B8349C29246BF2003145AB /* AboutViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AboutViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +77,57 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		18963E43292BCF7900CC07F2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				18963E46292BCFA900CC07F2 /* Provider */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		18963E44292BCF8B00CC07F2 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				18B8348A29246B5C003145AB /* HomeViewController.swift */,
+				18B8348B29246B5C003145AB /* HomeViewController.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		18963E45292BCF9200CC07F2 /* Preseter */ = {
+			isa = PBXGroup;
+			children = (
+				18963E49292BD32500CC07F2 /* HomePresenter.swift */,
+			);
+			path = Preseter;
+			sourceTree = "<group>";
+		};
+		18963E46292BCFA900CC07F2 /* Provider */ = {
+			isa = PBXGroup;
+			children = (
+				18963E47292BCFC600CC07F2 /* HomeProvider.swift */,
+			);
+			path = Provider;
+			sourceTree = "<group>";
+		};
+		18A0CF1C292542880042064A /* ServiceLayer */ = {
+			isa = PBXGroup;
+			children = (
+				18A0CF1D292545CE0042064A /* ServiceLayer.swift */,
+				18A0CF1F292545F10042064A /* NetworkError.swift */,
+				18A0CF21292547DD0042064A /* RequestModel.swift */,
+			);
+			path = ServiceLayer;
+			sourceTree = "<group>";
+		};
+		18A0CF23292556B00042064A /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				18A0CF25292556EE0042064A /* Constants.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
 		18AC664D291ED91D00E2D71B = {
 			isa = PBXGroup;
 			children = (
@@ -56,6 +147,15 @@
 		18AC6658291ED91D00E2D71B /* Youtube_Clon_Practica */ = {
 			isa = PBXGroup;
 			children = (
+				18A0CF23292556B00042064A /* Utils */,
+				18A0CF1C292542880042064A /* ServiceLayer */,
+				18B8348929246B15003145AB /* About */,
+				18B8348829246B0D003145AB /* Chanels */,
+				18B8348629246ADD003145AB /* Playlist */,
+				18B8348529246ACF003145AB /* Videos */,
+				18B8348429246AC2003145AB /* Home */,
+				18AC666E2922CF3500E2D71B /* Main */,
+				18AC666D2922CF2400E2D71B /* Model */,
 				18AC6659291ED91D00E2D71B /* AppDelegate.swift */,
 				18AC665B291ED91D00E2D71B /* SceneDelegate.swift */,
 				18AC665D291ED91D00E2D71B /* ViewController.swift */,
@@ -65,6 +165,70 @@
 				18AC6667291ED92000E2D71B /* Info.plist */,
 			);
 			path = Youtube_Clon_Practica;
+			sourceTree = "<group>";
+		};
+		18AC666D2922CF2400E2D71B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				18AC666F2922CF5300E2D71B /* PlaylistModel.swift */,
+				18AC66712922DDC000E2D71B /* VideoModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		18AC666E2922CF3500E2D71B /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				18AC66732922E6A200E2D71B /* RootPageViewController.swift */,
+				18AC66752922E6E000E2D71B /* MainViewController.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		18B8348429246AC2003145AB /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				18963E45292BCF9200CC07F2 /* Preseter */,
+				18963E44292BCF8B00CC07F2 /* View */,
+				18963E43292BCF7900CC07F2 /* Model */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		18B8348529246ACF003145AB /* Videos */ = {
+			isa = PBXGroup;
+			children = (
+				18B8348E29246B88003145AB /* VideosViewController.swift */,
+				18B8348F29246B88003145AB /* VideosViewController.xib */,
+			);
+			path = Videos;
+			sourceTree = "<group>";
+		};
+		18B8348629246ADD003145AB /* Playlist */ = {
+			isa = PBXGroup;
+			children = (
+				18B8349229246BB3003145AB /* PlaylistsViewController.swift */,
+				18B8349329246BB3003145AB /* PlaylistsViewController.xib */,
+			);
+			path = Playlist;
+			sourceTree = "<group>";
+		};
+		18B8348829246B0D003145AB /* Chanels */ = {
+			isa = PBXGroup;
+			children = (
+				18B8349629246BC5003145AB /* ChanelViewController.swift */,
+				18B8349729246BC5003145AB /* ChanelViewController.xib */,
+			);
+			path = Chanels;
+			sourceTree = "<group>";
+		};
+		18B8348929246B15003145AB /* About */ = {
+			isa = PBXGroup;
+			children = (
+				18B8349B29246BF2003145AB /* AboutViewController.swift */,
+				18B8349C29246BF2003145AB /* AboutViewController.xib */,
+			);
+			path = About;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +289,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18B8349529246BB3003145AB /* PlaylistsViewController.xib in Resources */,
 				18AC6666291ED92000E2D71B /* LaunchScreen.storyboard in Resources */,
+				18B8349E29246BF2003145AB /* AboutViewController.xib in Resources */,
 				18AC6663291ED92000E2D71B /* Assets.xcassets in Resources */,
+				18B8349129246B88003145AB /* VideosViewController.xib in Resources */,
+				18B8349929246BC5003145AB /* ChanelViewController.xib in Resources */,
 				18AC6661291ED91D00E2D71B /* Main.storyboard in Resources */,
+				18B8348D29246B5C003145AB /* HomeViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +307,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18B8349429246BB3003145AB /* PlaylistsViewController.swift in Sources */,
+				18A0CF20292545F10042064A /* NetworkError.swift in Sources */,
+				18B8349029246B88003145AB /* VideosViewController.swift in Sources */,
+				18AC66762922E6E000E2D71B /* MainViewController.swift in Sources */,
 				18AC665E291ED91D00E2D71B /* ViewController.swift in Sources */,
+				18A0CF22292547DD0042064A /* RequestModel.swift in Sources */,
+				18A0CF1E292545CE0042064A /* ServiceLayer.swift in Sources */,
+				18A0CF26292556EE0042064A /* Constants.swift in Sources */,
+				18AC66702922CF5300E2D71B /* PlaylistModel.swift in Sources */,
+				18B8348C29246B5C003145AB /* HomeViewController.swift in Sources */,
+				18B8349D29246BF2003145AB /* AboutViewController.swift in Sources */,
+				18B8349829246BC5003145AB /* ChanelViewController.swift in Sources */,
 				18AC665A291ED91D00E2D71B /* AppDelegate.swift in Sources */,
+				18AC66742922E6A200E2D71B /* RootPageViewController.swift in Sources */,
+				18963E48292BCFC600CC07F2 /* HomeProvider.swift in Sources */,
+				18963E4A292BD32500CC07F2 /* HomePresenter.swift in Sources */,
+				18AC66722922DDC000E2D71B /* VideoModel.swift in Sources */,
 				18AC665C291ED91D00E2D71B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -293,8 +477,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -302,9 +487,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "RJDev.Youtube-Clon-Practica";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -321,8 +509,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -330,9 +519,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "RJDev.Youtube-Clon-Practica";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

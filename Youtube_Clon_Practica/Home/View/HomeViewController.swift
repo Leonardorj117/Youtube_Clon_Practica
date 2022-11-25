@@ -11,7 +11,10 @@ class HomeViewController: UIViewController {
    lazy var presenter = HomePresenter(delegate: self)
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        Task{
+            await self.presenter.getHomeObjects()
+        }
     }
 
 }

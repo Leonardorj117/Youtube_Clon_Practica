@@ -3,4 +3,116 @@
    uuid = "CEA0013F-3EEA-424F-BCF1-864315C98F02"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37E555BD-13BB-4BB0-B2F1-46B5EFFEB466"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Youtube_Clon_Practica/Home/Preseter/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getHomeObjects()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51A0248B-4176-4103-B43B-F0C1A2703781"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Youtube_Clon_Practica/Home/Preseter/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getHomeObjects()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "51A0248B-4176-4103-B43B-F0C1A2703781 - cd1adaf3dd68ea3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Youtube_Clon_Practica.HomePresenter.getHomeObjects() async -&gt; ()"
+                  moduleName = "Youtube_Clon_Practica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Apple/Documents/Documentos/Victor_Roldan/Youtube_Clon_Practica/Youtube_Clon_Practica/Home/Preseter/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "199">
+               </Location>
+               <Location
+                  uuid = "51A0248B-4176-4103-B43B-F0C1A2703781 - 6b9782caef430e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Youtube_Clon_Practica.HomePresenter.getHomeObjects() async -&gt; ()"
+                  moduleName = "Youtube_Clon_Practica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Apple/Documents/Documentos/Victor_Roldan/Youtube_Clon_Practica/Youtube_Clon_Practica/Home/Preseter/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "51A0248B-4176-4103-B43B-F0C1A2703781 - 5fd7fb7e4257ac00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Youtube_Clon_Practica.HomePresenter.getHomeObjects() async -&gt; ()"
+                  moduleName = "Youtube_Clon_Practica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Apple/Documents/Documentos/Victor_Roldan/Youtube_Clon_Practica/Youtube_Clon_Practica/Home/Preseter/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "51A0248B-4176-4103-B43B-F0C1A2703781 - 17326b3f02c4cd03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Youtube_Clon_Practica.HomePresenter.getHomeObjects() async -&gt; ()"
+                  moduleName = "Youtube_Clon_Practica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Apple/Documents/Documentos/Victor_Roldan/Youtube_Clon_Practica/Youtube_Clon_Practica/Home/Preseter/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "86">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2520D69-9907-42AA-A845-8E0F8F07DBE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Youtube_Clon_Practica/Home/Preseter/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getHomeObjects()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
